@@ -1,0 +1,1 @@
+Bitswap - is a core module of IPFS for exchanging blocks of data. It directs the requesting and sending of blocks to and from other peers in the network. Bitswap is a message-based protocol where all messages contain want-lists or blocks.
